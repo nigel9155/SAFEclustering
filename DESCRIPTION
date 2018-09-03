@@ -7,7 +7,7 @@ Authors@R: c(person("Yuchen", "Yang", email = "yangyuchensysu@gmail.com", role =
              person("Yun", "Li", email = "yunli@med.unc.edu", role = c("aut")))
 Maintainer: Yuchen Yang <yangyuchensysu@gmail.com>
 Description: SAFE (Single-cell Aggregated clustering From Ensemble): Cluster ensemble for single-cell RNA-seq data
-Depends: R (>= 3.4.4)
+Depends: R (>= 3.4.1)
 License: GPL-3
 Imports: ADPclust, Matrix, Rtsne, SAVER, SC3, Seurat, e1071, SingleCellExperiment, SummarizedExperiment, parallel, S4Vectors, doParallel, doRNG, foreach, methods, bit64, cidr, dplyr, stringr, utils, graphics, stats
 Suggests: knitr
